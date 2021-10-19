@@ -1,0 +1,10 @@
+{
+  "name": "nlw-dowhile2021-backend",
+  "version": "1.0.0",
+  "description": "backend to platform of DoWhile2021",
+  "main": "./dist/index.js",
+  "repository": "git@github.com:MelkdeSousa/nlw-dowhile-2021-backend.git",
+  "author": "melkdesousa",
+  "license": "MIT",
+  "private": false
+}
